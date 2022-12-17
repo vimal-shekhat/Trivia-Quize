@@ -1,0 +1,3 @@
+export const QUIZE_QUESTION = 'QUIZE_QUESTION';
+export const LOAD_CATEGORY = 'LOAD_CATEGORY';
+export const LOAD_FORM = "LOAD_FORM";
